@@ -2,29 +2,6 @@
 
 **AI-Powered Delivery Route Optimization for Cost, Time, and Sustainability**
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io)
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.7.2-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-
----
-
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Demo Screenshots](#demo-screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Data Processing](#data-processing)
-- [Machine Learning Model](#machine-learning-model)
-- [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-
----
-
 ## 🎯 Overview
 
 **NexGen SmartRoute Planner** is an intelligent delivery route optimization system that leverages **Machine Learning** and **AI** to recommend the best vehicle and route for delivery operations. The system balances three critical factors:
