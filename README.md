@@ -355,8 +355,11 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request
 
 ---
+<img width="1920" height="1020" alt="Screenshot 2025-12-19 131020" src="https://github.com/user-attachments/assets/c128b24e-b65a-450d-b121-98f7b0918aef" />
 
-## 📧 Contact
+#<img width="1920" height="1020" alt="Screenshot 2025-12-19 131048" src="ht<img width="1920" height="1020" alt="Screenshot 2025-12-19 131059" src="https://github.com/user-attachments/assets/3ad4c50a-407f-4bc4-8361-1ba0350138b6" />
+tps://github.com/user-attachments/assets/f763e77b-d882-4c1a-b204-6365f30e7f5a" />
+# 📧 Contact
 
 For questions or support:
 - **Email:** [your-email@example.com]
